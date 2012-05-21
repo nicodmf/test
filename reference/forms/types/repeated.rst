@@ -3,7 +3,7 @@
 
 Type de champ Repeated
 ======================
-
+i
 C'est un « groupe » spécial de champs qui crée deux champs identiques dont les valeurs
 doivent correspondre (sinon une erreur de validation s'affiche). L'usage le plus commun
 est lorsque vous avez besoin que l'utilisateur tape une nouvelle fois son mot de passe
