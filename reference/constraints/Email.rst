@@ -1,7 +1,7 @@
 Email
 =====
 
-Valide que la valeur est une adresse email valide. La donnée finale est convertie
+Valide que la valeur est une adresse email valide. La donnée  finale est convertie
 en une chaine de caractères avant d'être validée.
 
 +----------------+---------------------------------------------------------------------+
